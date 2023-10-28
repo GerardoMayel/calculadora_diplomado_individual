@@ -1,6 +1,14 @@
 # calculadora_diplomado_individual
 
-Contiene el código de la calculadora, la estructura y pruebas
+Ramas:
+
+calculadora_equipo_3: Contiene la calculadora sin pruebas.
+
+master: contienela tarea ndividual de calculadora con test.
+
+grupal: contiene la calculadora y test grupal.
+
+Contiene el código de la calculadora, la estructura y pruebas:
 
 |_ main.py
 |_ test*calculadora.py
@@ -11,6 +19,8 @@ Contiene el código de la calculadora, la estructura y pruebas
 |_ multiplicacion.py
 |_ division.py
 |_ fracciones_a_numero.py
+
+Test:
 
 ============================================================================ test session starts =============================================================================
 platform darwin -- Python 3.8.3, pytest-7.4.3, pluggy-1.3.0
